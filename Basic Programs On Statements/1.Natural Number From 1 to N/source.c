@@ -1,4 +1,4 @@
-// Q:-Write a C Program to Print Natural Numbers from 1 to N using For Loop 
+// Q:-Write a C Program to Print Natural Numbers from 1 to N using For Loop.
  
 #include<stdio.h>
 #include<conio.h>
