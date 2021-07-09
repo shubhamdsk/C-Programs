@@ -1,0 +1,5 @@
+1.Input start limit to print from user. Store it in some variable say start.
+
+2.Input end limit to print from user. Store it in some variable say end.
+
+3.Run a loop from start to end, decrement the loop by 1 in each iteration. The loop structure should look like for(i=start; i>=end; i--).
