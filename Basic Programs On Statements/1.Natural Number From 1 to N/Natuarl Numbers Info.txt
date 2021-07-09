@@ -1,0 +1,4 @@
+What are Natural numbers?
+Natural numbers are the positive integers or non-negative integers which starts from 1 and ends at infinity, 
+such as:
+1,2,3,4,5,6,7,8,9,10,……,∞
