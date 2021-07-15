@@ -1,7 +1,7 @@
 // Q- Write a C Program for Odd numbers between 1 to 100 using while loop
 
 #include <stdio.h>    
-int main() 
+void main() 
 {  
     int i; 
     printf("Odd numbers between 1 to 100\n");  
@@ -16,5 +16,5 @@ int main()
         i = i + 2;  
     }  
    
-    return 0;  
+    getch(); 
 } 
