@@ -1,4 +1,4 @@
-//Q:- Write a C program to all natural numbers in reverse from N to 1 range using for loop.
+//Q:- Write a C program to all natural numbers in reverse from N to 1 range using for loop
 
 #include <stdio.h>
 #include <conio.h>
