@@ -1,4 +1,4 @@
-// Q- Odd numbers between 1 to 100 using while loop
+// Q- Write a C Program for Odd numbers between 1 to 100 using while loop
 
 #include <stdio.h>    
 int main() 
