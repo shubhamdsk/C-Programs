@@ -1,7 +1,7 @@
 // Q- C Write a C Program to print all even numbers from 1 to 100 using for loop
  
 #include <stdio.h>
-int main()
+void main()
 {
     int i;
     printf("Even numbers between 1 to 100\n"); 
@@ -16,5 +16,5 @@ int main()
             printf("%d\n", i);
         }
     }
-    return 0;
+    getch();
 }
