@@ -1,7 +1,7 @@
 // Q- Write a C Program for Alphabet from a to z using for loop
 
 #include <stdio.h>
-int main() 
+void main() 
 
 {
     char i;
@@ -11,5 +11,5 @@ int main()
     for (i = 'a'; i <= 'z'; i++)
         printf("%c\n ", i);
 
-    return 0;
+    getch();
 }
