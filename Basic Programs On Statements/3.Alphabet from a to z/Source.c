@@ -1,4 +1,4 @@
-// Q- Alphabet from a to z using for loop
+// Q- Write a C Program for Alphabet from a to z using for loop
 
 #include <stdio.h>
 int main() 
